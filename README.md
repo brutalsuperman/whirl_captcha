@@ -9,5 +9,7 @@ This project is intended for educational purposes only. It is designed to demons
 ## Usage
 
 pip install -r requirements
+
 playwright install chromium
+
 python main.py
